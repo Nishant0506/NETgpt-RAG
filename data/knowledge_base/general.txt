@@ -1,0 +1,5 @@
+General network troubleshooting begins with collecting evidence from logs, interfaces, and protocol neighbors.
+Common symptoms include packet loss, reachability failures, and unexpected route changes.
+Start by confirming the topology, checking recent configuration changes, and isolating the failing layer.
+Use show commands to verify interface state, routing state, and neighbor status.
+Corrective actions should be based on evidence and should avoid changing unrelated configuration.

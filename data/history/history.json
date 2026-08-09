@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": "2026-08-09T11:50:25.084744",
+    "filename": "ospf_failure.log.txt",
+    "detected_issues": [
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "Interface Failure",
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "OSPF Neighbor Down"
+    ],
+    "severity": "HIGH",
+    "confidence": 0.95,
+    "summary": "Detected network issues: Interface Failure, OSPF Neighbor Down, Interface Failure, Interface Failure, OSPF Neighbor Down, Interface Failure, OSPF Neighbor Down, OSPF Neighbor Down. The strongest finding is Interface Failure."
+  },
+  {
+    "timestamp": "2026-08-09T11:50:37.424207",
+    "filename": "ospf_failure.log.txt",
+    "detected_issues": [
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "Interface Failure",
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "OSPF Neighbor Down"
+    ],
+    "severity": "HIGH",
+    "confidence": 0.95,
+    "summary": "Detected network issues: Interface Failure, OSPF Neighbor Down, Interface Failure, Interface Failure, OSPF Neighbor Down, Interface Failure, OSPF Neighbor Down, OSPF Neighbor Down. The strongest finding is Interface Failure."
+  },
+  {
+    "timestamp": "2026-08-09T11:52:17.704238",
+    "filename": "ospf_failure.log.txt",
+    "detected_issues": [
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "Interface Failure",
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "OSPF Neighbor Down"
+    ],
+    "severity": "HIGH",
+    "confidence": 0.95,
+    "summary": "Detected network issues: Interface Failure, OSPF Neighbor Down, Interface Failure, Interface Failure, OSPF Neighbor Down, Interface Failure, OSPF Neighbor Down, OSPF Neighbor Down. The strongest finding is Interface Failure."
+  },
+  {
+    "timestamp": "2026-08-09T11:52:31.615440",
+    "filename": "ospf_failure.log.txt",
+    "detected_issues": [
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "Interface Failure",
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "Interface Failure",
+      "OSPF Neighbor Down",
+      "OSPF Neighbor Down"
+    ],
+    "severity": "HIGH",
+    "confidence": 0.95,
+    "summary": "Detected network issues: Interface Failure, OSPF Neighbor Down, Interface Failure, Interface Failure, OSPF Neighbor Down, Interface Failure, OSPF Neighbor Down, OSPF Neighbor Down. The strongest finding is Interface Failure."
+  }
+]

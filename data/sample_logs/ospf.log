@@ -1,0 +1,2 @@
+2026-08-09T10:15:00Z Router1 %OSPF-5-ADJCHG: Neighbor 10.0.0.2 changed from FULL to DOWN
+2026-08-09T10:15:05Z Router1 GigabitEthernet0/1 interface is down

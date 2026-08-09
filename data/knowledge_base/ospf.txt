@@ -1,0 +1,7 @@
+OSPF is a link-state routing protocol used to build routing tables between routers.
+Common problems include neighbor adjacency failure, missing hello packets, authentication mismatch, and interface issues.
+Symptoms include OSPF neighbor down, incomplete routing tables, and route flaps.
+Possible causes include cable faults, interface shutdown, MTU mismatch, and authentication errors.
+Troubleshooting steps include checking interface status, verifying hello timers, confirming IP reachability, and reviewing OSPF authentication.
+Cisco verification commands include show ip ospf neighbor, show ip ospf interface, and show ip protocols.
+Corrective actions include restoring the interface, fixing authentication, and correcting MTU or timing mismatches.

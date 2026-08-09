@@ -1,0 +1,7 @@
+DHCP provides IP address assignment to hosts on a network.
+Common problems include scope exhaustion, server unreachability, and relay issues.
+Symptoms include hosts failing to obtain an address and duplicate IP conflicts.
+Possible causes include misconfigured scopes, overlapping pools, or failed relay agents.
+Troubleshooting steps include verifying the DHCP server, pool availability, and interface VLAN configuration.
+Cisco verification commands include show ip dhcp binding and show ip dhcp server statistics.
+Corrective actions include restoring server reachability and fixing the pool or relay configuration.

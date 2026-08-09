@@ -1,0 +1,7 @@
+BGP is an exterior gateway protocol used to exchange routing information between autonomous systems.
+Common problems include session reset, reachability failure, AS mismatch, and missing route advertisement.
+Symptoms include BGP peer down, route oscillation, and missing learned prefixes.
+Possible causes include firewall filters, authentication errors, and interface failures.
+Troubleshooting steps include checking neighbor reachability, verifying TCP port 179, and reviewing prefix filters.
+Cisco verification commands include show ip bgp summary and show ip bgp neighbors.
+Corrective actions include restoring the peer path and correcting policy or authentication mismatches.
